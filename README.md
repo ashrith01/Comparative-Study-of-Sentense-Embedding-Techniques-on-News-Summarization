@@ -108,8 +108,8 @@ Comparative-Study-of-Sentense-Embedding-Techniques-on-News-Summarization/
 ## Running the Project
 
 ```bash
-pip install sentence-transformers tensorflow tensorflow-hub nltk sumeval pandas matplotlib
-jupyter notebook notebooks/summarization_comparison.ipynb
+1) pip install sentence-transformers tensorflow tensorflow-hub nltk sumeval pandas matplotlib
+2) jupyter notebook notebooks/summarization_comparison.ipynb
 ```
 
 Unzip `Dataset/BBC News Summary.zip` alongside the notebook first. The notebook was written for
@@ -132,7 +132,7 @@ summary. Structure and statistics are in [DATASET.md](DATASET.md).
 ## Acknowledgments
 
 Course project at **Amrita School of Engineering, Bengaluru** (Amrita Vishwa Vidyapeetham),
-guided by Dr. Deepa Gupta, by Vishnu Sainadh Kedarisetty, Satwik Kukkadapu and Ashrith Vadde.
+guided by Dr. Deepa Gupta, by Ashrith Vadde, Vishnu Sainadh Kedarisettya and Satwik Kukkadapu.
 
 ## Documentation
 
